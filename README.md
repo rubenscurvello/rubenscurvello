@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on back-end...
-- 🌱 I’m currently learning typescript...
 
  ![Snake animation](https://github.com/rubenscurvello/rubenscurvello/blob/output/github-contribution-grid-snake.svg)
